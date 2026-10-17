@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "origin",
+    "security/issue-42-reconcile-horizon-and-rpc-finality-disagreements"
+  ],
+  "parent": {
+    "develop": null,
+    "origin": "develop",
+    "security/issue-42-reconcile-horizon-and-rpc-finality-disagreements": "develop"
+  },
+  "order": [
+    "develop",
+    "origin",
+    "security/issue-42-reconcile-horizon-and-rpc-finality-disagreements"
+  ]
+}
